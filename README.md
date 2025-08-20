@@ -71,6 +71,26 @@ Mouse
   <img src="imgs/imgM4.png" alt="3D">
 </p>
 
+## ⚙️ Usage (bonus)
+
+First do this :
+```bash
+cd ../bonus && make
+```
+
+then you can run like this :
+```bash
+./cub3D_bonus maps/test.cub
+```
+
+Controls are same with mandatory part, but this time we cannot walk through walls and now we have mini map on the screen.
+
+## 🖼️ Illustrations
+<p align="center">
+  <img src="imgs/imgB1.png" alt="3D">
+  <img src="imgs/imgB2.png" alt="3D">
+</p>
+
 My final grade :
 
 ![](imgs/110_percent.png)
