@@ -65,7 +65,7 @@ Mouse
 > In mandatory part we can walk through walls.
 
 <p align="center">
-  <p align="left">Before :</p>
+  <p align="left"><strong>Before</strong> :</p>
   <img src="imgs/imgM3.png" alt="3D">
   After :
   <img src="imgs/imgM4.png" alt="3D">
