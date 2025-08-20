@@ -61,11 +61,11 @@ Mouse
   <img src="imgs/imgM2.png" alt="3D">
 </p>
 
-> [!TIP]
+> [!NOTE]
 > In mandatory part we can walk through walls.
 
 <p align="center">
-  Before :
+  <p align="left">Before :</p>
   <img src="imgs/imgM3.png" alt="3D">
   After :
   <img src="imgs/imgM4.png" alt="3D">
