@@ -50,7 +50,7 @@ Keyboard
 - ```D``` key: go right
 - ```ESC``` key: quit the game
 - ```⬅️``` key: turn the camera to the left
-- ```➡️``` key: turn thr camera to the right
+- ```➡️``` key: turn the camera to the right
 
 Mouse
 - Left click on corss: quit the game
