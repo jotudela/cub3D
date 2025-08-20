@@ -66,7 +66,7 @@ Mouse
 
 <p align="center">
   <p align="left">Before :</p>
-  <img src="imgs/imgM3.png" width="60" alt="3D">
+  <img src="imgs/imgM3.png" width="100" alt="3D">
   After :
   <img src="imgs/imgM4.png" alt="3D">
 </p>
